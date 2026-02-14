@@ -1,0 +1,46 @@
+ /* ===== NORMAL PAGE ===== */
+html, body {
+  overflow-y: auto !important;
+  background-color: #0f0f0f !important;
+}
+
+/* ===== CINEMATIC / BLACK AREA KO DIRECT HIDE ===== */
+ytd-watch-flexy[theater]::before,
+ytd-watch-flexy[theater]::after,
+#cinematics,
+.ytp-cinematic-container,
+.ytp-gradient-bottom,
+.ytp-gradient-top {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* ===== VIDEO PLAYER STICKY ===== */
+#primary #player {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 999 !important;
+  background: transparent !important;
+}
+
+/* ===== EXTRA BLACK BOX REMOVE =====  */
+#primary,
+#player-container,
+#player-container-inner,
+.html5-video-player {
+  background: transparent !important;
+}
+
+/* ===== RIGHT SIDEBAR SCROLL ===== */
+#secondary {
+  position: sticky !important;
+  top: 0 !important;
+  height: 100vh !important;
+  overflow-y: auto !important;
+}
+
+
+
+
+
