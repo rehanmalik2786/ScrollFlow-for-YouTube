@@ -4,6 +4,8 @@
   "version": "1.0",
   "description": "Sticky video with smart right-side-only scroll behavior.",
   "permissions": ["activeTab"],
+  "icons": {
+  "128": "icon.png"},
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/watch*"],
