@@ -4,7 +4,7 @@
 
 <i>A lightweight Chrome extension that explores improved scrolling behaviour and a sticky video player experience on the YouTube watch page.</i>
 
-
+<i> tutorial drive link https://drive.google.com/drive/folders/1dpjRsUvc6YmCZiCCAJct-scxvg1r5N62?usp=sharing
 
 * ##### <i>**Features**</i>
 
@@ -78,6 +78,12 @@
 <i>Feedback, ideas, and discussions are highly welcome.</i>
 
 <i> © 2026 REHAN AHMED KHAN. All Rights Reserved.
+
+<i> you can check the tutorial if you facing any problem regarding uses.
+
+<i> https://drive.google.com/drive/folders/1dpjRsUvc6YmCZiCCAJct-scxvg1r5N62?usp=sharing
+
+<i> this is a google drive link here you can access the tutorial.
 
 
 
