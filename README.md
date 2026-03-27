@@ -8,6 +8,7 @@
 
 * ##### <i>**Features**</i>
 
+<i> © 2026 REHAN AHMED KHAN. All Rights Reserved.
 
 
 <i>\* Sticky video player while scrolling</i>
@@ -24,6 +25,7 @@
 
 <i>This project experiments with smarter scrolling interactions to make multitasking on the YouTube watch page more comfortable—especially while browsing recommendations and comments during video playback.</i>
 
+<i> © 2026 REHAN AHMED KHAN. All Rights Reserved.
 
 
 * ##### <i>**Current Limitation**</i>
@@ -44,6 +46,7 @@
 
 * ##### <i>**Tech Stack**</i>
 
+<i> © 2026 REHAN AHMED KHAN. All Rights Reserved.
 
 
 <i>\* JavaScript</i>
@@ -73,6 +76,8 @@
 <i>This is an experimental UX exploration.</i>
 
 <i>Feedback, ideas, and discussions are highly welcome.</i>
+
+<i> © 2026 REHAN AHMED KHAN. All Rights Reserved.
 
 
 
